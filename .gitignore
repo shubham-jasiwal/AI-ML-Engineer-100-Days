@@ -155,6 +155,8 @@ chromedriver-linux64/
 
 # mkdocs documentation
 /site
+all_json
+all_male_json
 
 # mypy
 .mypy_cache/
