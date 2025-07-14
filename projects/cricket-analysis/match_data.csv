@@ -1,0 +1,87 @@
+match_id,format,team_1,team_2,description,team_1_runs,team_1_wickets,team_1_overs,team_2_runs,team_2_wickets,team_2_overs,match_info
+120159,ODI,CAN,ZIM-A,Zimbabwe A beat Canada by 4 wickets,231,9,50,232,6,41.1,1st unofficial ODI
+120189,T20I,CAN,NAM,Namibia beat Canada by 3 wickets,145,8,15,146,7,15,Match 2
+120191,T20I,CAN,NAM,Namibia beat Canada by 10 wickets (DLS method),42,7,13,42,0,2.4,Match 4
+120192,T20I,CAN,NAM,Namibia beat Canada by 8 wickets,142,7,20,143,2,15.2,Match 5
+120194,T20I,PAK,NZ,New Zealand beat Pakistan by 9 wickets,91,10,18.4,92,1,10.1,1st T20I
+120195,T20I,PAK,NZ,New Zealand beat Pakistan by 5 wickets,135,9,15,137,5,13.1,2nd T20I
+120196,T20I,NZ,PAK,Pakistan beat New Zealand by 9 wickets,204,10,19.5,207,1,16,3rd T20I
+120197,T20I,NZ,PAK,New Zealand beat Pakistan by 115 runs,220,6,20,105,10,16.2,4th T20I
+120198,T20I,PAK,NZ,New Zealand beat Pakistan by 8 wickets,128,9,20,131,2,10,5th T20I
+120199,ODI,NZ,PAK,New Zealand beat Pakistan by 73 runs,344,9,50,271,10,44.1,1st ODI
+120200,ODI,NZ,PAK,New Zealand beat Pakistan by 84 runs,292,8,50,208,10,41.2,2nd ODI
+120201,ODI,NZ,PAK,New Zealand beat Pakistan by 43 runs,264,8,42,221,10,40,3rd ODI
+120402,ODI,NED,NAM,Netherlands beat Namibia by 53 runs,159,10,39.1,106,10,30,Match 56
+120403,ODI,CAN,NAM,Canada tied with Namibia (Canada win Super Over by 2 wickets),168,8,39,174,10,39,Match 57
+120405,ODI,NAM,NED,Netherlands beat Namibia by 7 wickets,148,10,44.5,149,3,37,Match 59
+120406,ODI,NAM,CAN,Namibia beat Canada by 12 runs (DLS method),186,10,49,154,10,42,Match 60
+123628,T20I,SCO,ZAC,Scotland beat Zimbabwe Academy by 67 runs,194,5,20,127,9,20,2nd T20
+123631,ODI,SCO,ZIM-A,Scotland beat Zimbabwe A by 7 runs,347,10,50,340,10,49,2nd unofficial ODI
+123632,ODI,SCO,ZIM-A,Zimbabwe A beat Scotland by 8 wickets,85,10,20.3,86,2,17.3,3rd unofficial ODI
+123637,TEST,BAN,ZIM,Zimbabwe beat Bangladesh by 3 wickets,191,10,61,273,10,80.2,1st Test
+123638,TEST,ZIM,BAN,Bangladesh beat Zimbabwe by an innings and 106 runs,227,10,90.1,444,10,129.2,2nd Test
+123774,T20I,BER,CAN,Canada beat Bermuda by 5 wickets,105,8,20,108,5,18.1,Match 2
+123776,T20I,BER,CAY,Bermuda beat Cayman Islands by 30 runs,137,5,20,107,8,20,Match 4
+123778,T20I,BER,USA,USA beat Bermuda by 10 wickets,70,10,16.3,71,0,5.4,Match 6
+123779,T20I,CAN,CAY,Canada beat Cayman Islands by 94 runs,165,6,20,71,10,17.1,Match 7
+123781,T20I,CAN,USA,Canada beat USA by 17 runs,184,7,20,167,8,20,Match 10
+123783,T20I,BER,USA,USA beat Bermuda by 10 wickets,114,7,20,115,0,14,2nd Semi-Final
+123786,T20I,CAN,USA,USA beat Canada by 6 wickets,168,9,20,169,4,19.1,Final
+124493,ODI,UAE,SCO,SCO beat UAE by 3 wickets,225,9,50,226,7,46.2,Match 61
+124494,ODI,NED,UAE,NED beat UAE by 113 runs,272,7,50,159,10,41.2,Match 62
+124495,ODI,UAE,SCO,UAE beat SCO by 97 runs,296,6,50,199,10,43.3,Match 63
+124496,ODI,NED,SCO,Netherlands beat Scotland by 19 runs,282,7,50,263,9,50,Match 64
+124497,ODI,UAE,NED,NED beat UAE by 5 wickets,204,9,50,205,5,36,Match 65
+124498,ODI,UAE,SCO,SCO beat UAE by 8 wickets,161,10,47.5,162,2,24.2,Match 66
+124499,ODI,SCO,NED,Scotland beat Netherlands by 145 runs,380,9,50,235,10,42.1,Match 67
+124503,ODI,CAN,OMN,Oman beat Canada by 18 runs (DLS method),212,10,48.4,108,3,23.1,Match 71
+125493,T20I,BAN,UAE,BAN beat UAE by 27 runs,191,7,20,164,10,20,1st T20I
+125494,T20I,BAN,UAE,UAE beat BAN by 2 wickets,205,5,20,206,8,19.5,2nd T20I
+125697,ODI,IRE,WI,Ireland beat West Indies by 124 runs,303,6,50,179,10,34.1,1st ODI
+125699,ODI,WI,IRE,West Indies beat Ireland by 197 runs (DLS method),385,7,50,165,10,29.5,3rd ODI
+125702,T20I,WI,IRE,West Indies beat Ireland by 62 runs,256,5,20,194,7,20,3rd T20I
+126220,TEST,ENG,ZIM,England beat Zimbabwe by an innings and 45 runs,565,6,96.3,265,10,63.2,One-off Test
+126291,T20I,BAN,UAE,UAE beat BAN by 7 wickets,162,9,20,166,3,19.1,3rd T20I
+126351,ODI,ENG,WI,England beat West Indies by 238 runs,400,8,50,162,10,26.2,1st ODI
+126352,ODI,WI,ENG,England beat West Indies by 3 wickets,308,10,47.4,312,7,48.5,2nd ODI
+126353,ODI,WI,ENG,England beat West Indies by 7 wickets (DLS method),251,9,40,246,3,29.4,3rd ODI
+126354,T20I,ENG,WI,England beat West Indies by 21 runs,188,6,20,167,9,20,1st T20I
+126355,T20I,WI,ENG,England beat West Indies by 4 wickets,196,6,20,199,6,18.3,2nd T20I
+126356,T20I,ENG,WI,England beat West Indies by 37 runs,248,3,20,211,8,20,3rd T20I
+127238,ODI,SCO,NEP,Nepal beat Scotland by 1 wicket,296,7,50,297,9,49.5,Match 74
+127239,ODI,NED,NEP,Nepal beat Netherlands by 5 wickets,225,10,49.1,226,5,47.1,Match 75
+127240,ODI,SCO,NED,Scotland beat Netherlands by 44 runs,262,9,50,218,10,45,Match 76
+127241,ODI,SCO,NEP,Scotland beat Nepal by 2 runs,323,6,50,321,10,50,Match 77
+127242,ODI,NEP,NED,Nepal beat Netherlands by 16 runs,236,9,50,220,10,49.2,Match 78
+127243,ODI,SCO,NED,Netherlands beat Scotland by 4 wickets,369,6,50,374,6,49.2,Match 79
+127550,TEST,AUS,WI,Australia beat West Indies by 159 runs,180,10,56.5,190,10,63.2,1st Test
+127551,TEST,AUS,WI,Australia beat West Indies by 133 runs,286,10,66.5,253,10,73.2,2nd Test
+127552,TEST,AUS,WI,West Indies trail by 208,225,10,70.3,17,1,10.3,3rd Test
+127558,TEST,SA,ZIM,South Africa beat Zimbabwe by 328 runs,418,9,90,251,10,67.4,1st Test
+127559,TEST,SA,ZIM,South Africa beat Zimbabwe by an innings and 236 runs,626,5,114,170,10,43,2nd Test
+127626,T20I,SCO,NED,Scotland beat Netherlands by 39 runs,160,8,20,121,10,18.1,Match 1
+127627,T20I,NED,NEP,Netherlands tied with Nepal (Netherlands win 3rd Super Over by 2 wickets),152,7,20,152,8,20,Match 2
+127628,T20I,SCO,NEP,Nepal beat Scotland by 2 wickets,97,10,19.4,98,8,19.5,Match 3
+127629,T20I,NED,NEP,Nepal beat Netherlands by 6 wickets,174,7,20,180,4,19.4,Match 5
+127630,T20I,NED,SCO,Netherlands beat Scotland by 17 runs,198,7,20,181,9,20,Match 4
+127631,T20I,SCO,NEP,Scotland beat Nepal by 34 runs,193,5,20,159,10,18.5,Match 6
+128238,TEST,AUS,SA,South Africa beat Australia by 5 wickets,212,10,56.4,138,10,57.1,Final
+128426,TEST,BAN,SL,Sri Lanka drew with Bangladesh,495,10,153.4,485,10,131.2,1st Test
+128427,TEST,BAN,SL,Sri Lanka beat Bangladesh by an innings and 78 runs,247,10,79.3,458,10,116.5,2nd Test
+128428,ODI,SL,BAN,Sri Lanka beat Bangladesh by 77 runs,244,10,49.2,167,10,35.5,1st ODI
+128429,ODI,BAN,SL,Bangladesh beat Sri Lanka by 16 runs,248,10,45.5,232,10,48.5,2nd ODI
+128430,ODI,SL,BAN,Sri Lanka beat Bangladesh by 99 runs,285,7,50,186,10,39.4,3rd ODI
+128431,T20I,BAN,SL,Sri Lanka beat Bangladesh by 7 wickets,154,5,20,159,3,19,1st T20I
+128432,T20I,BAN,SL,Bangladesh beat Sri Lanka by 83 runs,177,7,20,94,10,15.2,2nd T20I
+128695,T20I,CAN,BER,Canada beat Bermuda by 110 runs,205,5,20,95,10,19.1,Match 1
+128697,T20I,CAN,CAY,Canada beat Cayman Islands by 59 runs,162,5,20,103,9,20,Match 3
+128701,T20I,BER,BAH,Bermuda beat Bahamas by 26 runs,114,6,9,88,2,9,Match 7
+128702,T20I,CAN,CAY,Canada beat Cayman Islands by 42 runs,81,0,5,39,5,5,Match 8
+128704,T20I,BER,CAY,Cayman Islands beat Bermuda by 9 wickets,139,2,14,142,1,13.1,Match 10
+128706,T20I,BER,CAN,Canada beat Bermuda by 6 wickets,131,10,18.3,132,4,15.5,Match 12
+128748,TEST,IND,ENG,England beat India by 5 wickets,471,10,113,465,10,100.4,1st Test
+128749,TEST,IND,ENG,India beat England by 336 runs,587,10,151,407,10,89.3,2nd Test
+128750,TEST,ENG,IND,Stumps - India need 135 runs to win with 6 wickets remaining,387,10,112.3,387,10,119.2,3rd Test
+128785,ODI,NAM,ASM,Assam beat Namibia by 3 wickets,178,10,42.1,179,7,45.2,2nd unofficial ODI
+128786,ODI,NAM,ASM,Namibia beat Assam by 107 runs,279,9,50,172,10,44.4,3rd unofficial ODI
+128787,ODI,NAM,ASM,Namibia beat Assam by 37 runs,301,5,50,264,9,50,4th unofficial ODI
